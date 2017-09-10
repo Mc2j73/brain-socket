@@ -13,7 +13,7 @@ Lets begin by installing this package through Composer. Edit your Laravel projec
 ```json
 	"require": {
 		...
-		"brainboxlabs/brain-socket": "v1.0.0"
+		"brainboxlabs/brain-socket": "2.0.0"
 	},
 ```
 
@@ -102,5 +102,3 @@ Great! Now we have a few events to test out on the client side. Run the artisan 
 
 To make things easier we have created a simple js helper that allows us to interact with our new ws server a bit easier.
 It's not required but it handles some minor formatting tasks in the background so you don't have to and pairs nicely with our BrainSocket Facade.
-
-Head over to [https://github.com/BrainBoxLabs/brain-socket-js](https://github.com/BrainBoxLabs/brain-socket-js) to grab it.

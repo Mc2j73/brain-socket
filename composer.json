@@ -1,9 +1,9 @@
 {
-	"name": "brainboxlabs/brain-socket",
+	"name": "mc2j73/brain-socket",
 	"type": "library",
 	"description": "Websockets for event-driven Laravel apps.",
 	"keywords": ["websockets","laravel","events","ratchet","artisan"],
-	"homepage": "https://github.com/BrainBoxLabs/brain-socket",
+	"homepage": "https://github.com/Mc2j73/brain-socket",
 	"license": "MIT",
 	"authors": [
 		{
